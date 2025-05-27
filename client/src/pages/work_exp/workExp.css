@@ -1,0 +1,38 @@
+.work{
+    padding-left: 140px;
+    margin-top: 60px ;
+    background-color: rgba(152, 145, 145, 0.224);
+}
+.work hr {
+    color : rgb(5, 161, 135);
+    width: 400px;
+    margin: 10px auto;
+}
+
+.work h2 {
+    color : rgb(5, 161, 135);
+    font-weight: bold;
+}
+
+.work .vertical-timeline-element-title{
+    color : rgb(5, 161, 135);
+}
+
+.work .vertical-timeline-element-subtitle{
+color: #212128c3;
+}
+.work p{
+    font-size: 12px; 
+}
+
+@media (max-width:600px){
+    .work{
+        padding: 0;
+        margin: 0;
+        margin-top: 50px;
+    }
+
+    .work .hr{
+        width: 280px;
+    }
+}

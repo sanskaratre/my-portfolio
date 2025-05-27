@@ -1,0 +1,22 @@
+{
+  "name": "mern-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio web-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start" :  "node index.js"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Sanskar atre",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-mailjet": "^6.0.8",
+    "webpack-bundle-analyzer": "^4.10.2"
+  }
+}

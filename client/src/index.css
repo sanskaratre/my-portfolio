@@ -1,0 +1,13 @@
+ /* CSS Reset  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ /* DARK MODE */
+
+ #dark{
+  background-color: rgb(31, 8, 8);
+  color: aliceblue;
+ }
