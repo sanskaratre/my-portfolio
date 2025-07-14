@@ -1,0 +1,82 @@
+.home-container{
+    color: white;
+    height: 250px;
+    padding-left: 140px;
+    margin-top: 60px ;
+}
+
+.home-content h2{
+    padding: 10px;
+    padding-top: 40px;
+}
+.home-content h1{
+    padding: 5px;
+    color: rgb(5, 161, 135);
+}
+.home-buttons{
+    margin-top: 20px;
+}
+.home-buttons .btn-hire{
+    background-color: 	#696969 ;
+    color: black;
+    width: 145px;
+}
+.home-buttons .btn-hire:hover{
+    background-color: rgb(5, 161, 135) ;
+    color: #A9A9A9;
+    width: 200px;
+    transition: 1s;
+}
+.home-buttons .btn-cv{
+    background-color: 	#696969 ;
+    color: black;
+    width: 145px;
+    margin-left: 10px;
+}
+.home-buttons .btn-cv:hover{
+    background-color: rgb(5, 161, 135) ;
+    color: #A9A9A9;
+    width: 200px;
+    transition: 1s;
+}
+
+.wave {
+    display: inline-block;
+    animation: wave-animation 2.5s infinite;
+    transform-origin: 70% 70%; /* Adjusts the rotation point */
+  }
+  
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+  
+  .theme-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    background-color: #696969;
+    margin-top: 20px;
+    position: fixed;
+    right: 0;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px ;
+    z-index: 1;
+  }
+
+  @media (max-width: 600px) {
+   .home-container{
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+   }
+  }
