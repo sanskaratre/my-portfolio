@@ -26,7 +26,7 @@ const Home = () => {
       <h1>
         <Typewriter 
          options={{
-          strings: ['Fullstack Developer!', 'MERN Developer!', "React Js Developer!"],
+          strings: [ 'MERN Developer!', "React Js Developer!"],
           autoStart: true,
           loop: true,
         }}
