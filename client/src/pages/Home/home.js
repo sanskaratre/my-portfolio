@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useTheme } from '../../Context/themeContext';
 import Typewriter from 'typewriter-effect';
 import "./home.css";
-import Resume from "../../assets/Docs/Fullstack.pdf"
+import Resume from "../../assets/Docs/SanskarAtre.pdf"
 import { IoIosMoon,IoMdSunny } from "react-icons/io";
 import Fade from 'react-reveal/Fade';
 

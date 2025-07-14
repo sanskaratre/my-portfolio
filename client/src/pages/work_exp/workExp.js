@@ -33,6 +33,7 @@ const WorkExp = () => {
             UI/UX design, and ensuring compliance with RBI regulations. I also contribute to the business by providing innovative ideas, 
             coordinating with different teams to drive business development, and planning project modules for optimal design and enhancement.
             My focus is on delivering the best possible solutions to elevate our projects and achieve our goals.
+            
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

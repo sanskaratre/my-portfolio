@@ -15,9 +15,13 @@ const About = () => {
                 <div className="col-md-6 col-xl-6 col-lg-6 col-xs-6 about-content">
                     <h1>About Me</h1>
                     <p>
-                    I am a goal-oriented Software Developer with experience in IT and Fintech, focused on solving complex problems and delivering business solutions, especially in payment applications. I excel in project ownership, mentorship, and collaboration, having also taken on roles like Team Lead and Scrum Master.
-
-I see Software Engineering as an endless puzzle that I’m passionate about solving. My drive for organization and continuous learning fuels my work, as I strive to create products that simplify life for others.
+I am a Frontend Developer with experience in Software Development and Fintech, focused on solving complex
+ problems and delivering business solutions, especially for payment applications. I excel in project ownership,
+ mentorship, cross-team collaboration, and have experience with compliance and security audits such as VAPT of
+ applications.I have also taken on roles such as Team Lead and Scrum Master. I am passionate about writing clean,
+ efficient code and contributing innovative ideas for new business solutions. I continuously strive to learn new
+ technologies. I am proficient in React.js, JavaScript, HTML, CSS, Bootstrap, Node.js, Express.js, MongoDB, SQL, and
+ REST APIs. 
                     </p>
                 </div>
             </div>

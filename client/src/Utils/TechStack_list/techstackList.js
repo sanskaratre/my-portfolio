@@ -39,11 +39,7 @@ export const TechstackList = [
     name: "TypeScript",
     icon: SiTypescript,
   },
-//   {
-//     _id: 6,
-//     name: "Angular",
-//     icon: SiAngular,
-//   },
+
   {
     _id: 7,
     name: "React JS",
@@ -99,9 +95,5 @@ export const TechstackList = [
     name: "Git / Github ",
     icon: SiGithub,
   },
-  {
-    _id: 23,
-    name: "Nginx ",
-    icon: SiNginx,
-  },
+ 
 ];
