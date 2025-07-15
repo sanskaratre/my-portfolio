@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bed7da1.chunk.css",
-    "main.js": "/static/js/main.0a8a0b93.chunk.js",
-    "main.js.map": "/static/js/main.0a8a0b93.chunk.js.map",
+    "main.css": "/static/css/main.37132cca.chunk.css",
+    "main.js": "/static/js/main.cc652c24.chunk.js",
+    "main.js.map": "/static/js/main.cc652c24.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.34f61dbc.js",
     "runtime-main.js.map": "/static/js/runtime-main.34f61dbc.js.map",
     "static/css/2.a5344151.chunk.css": "/static/css/2.a5344151.chunk.css",
-    "static/js/2.7c99454e.chunk.js": "/static/js/2.7c99454e.chunk.js",
-    "static/js/2.7c99454e.chunk.js.map": "/static/js/2.7c99454e.chunk.js.map",
+    "static/js/2.2e43386e.chunk.js": "/static/js/2.2e43386e.chunk.js",
+    "static/js/2.2e43386e.chunk.js.map": "/static/js/2.2e43386e.chunk.js.map",
     "static/js/3.0508f991.chunk.js": "/static/js/3.0508f991.chunk.js",
     "static/js/3.0508f991.chunk.js.map": "/static/js/3.0508f991.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.69b4de6c9726f210fad79a140c597eda.js": "/precache-manifest.69b4de6c9726f210fad79a140c597eda.js",
+    "precache-manifest.41f0b30b892425562a6cb03183bf5ccc.js": "/precache-manifest.41f0b30b892425562a6cb03183bf5ccc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a5344151.chunk.css.map": "/static/css/2.a5344151.chunk.css.map",
-    "static/css/main.1bed7da1.chunk.css.map": "/static/css/main.1bed7da1.chunk.css.map",
-    "static/js/2.7c99454e.chunk.js.LICENSE.txt": "/static/js/2.7c99454e.chunk.js.LICENSE.txt",
+    "static/css/main.37132cca.chunk.css.map": "/static/css/main.37132cca.chunk.css.map",
+    "static/js/2.2e43386e.chunk.js.LICENSE.txt": "/static/js/2.2e43386e.chunk.js.LICENSE.txt",
     "static/media/E-comm.png": "/static/media/E-comm.fa273a07.png",
-    "static/media/Fullstack.pdf": "/static/media/Fullstack.94c57921.pdf",
-    "static/media/Profile_pic.jpg": "/static/media/Profile_pic.1401d5bf.jpg"
+    "static/media/Profile_pic.jpg": "/static/media/Profile_pic.1401d5bf.jpg",
+    "static/media/SanskarAtre.pdf": "/static/media/SanskarAtre.1d11215f.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.34f61dbc.js",
     "static/css/2.a5344151.chunk.css",
-    "static/js/2.7c99454e.chunk.js",
-    "static/css/main.1bed7da1.chunk.css",
-    "static/js/main.0a8a0b93.chunk.js"
+    "static/js/2.2e43386e.chunk.js",
+    "static/css/main.37132cca.chunk.css",
+    "static/js/main.cc652c24.chunk.js"
   ]
 }
