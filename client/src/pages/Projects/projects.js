@@ -39,7 +39,7 @@ const Projects = () => {
                         <div className="text-uppercase ">
                            <h6> Portfolio website </h6>
                         </div>
-                        <a className="ad-btn " href="#" >View</a>
+                        <a className="ad-btn " href="https://my-portfolio-1k7s.onrender.com/" >View</a>
                     </div>
               </div>
             </div>
